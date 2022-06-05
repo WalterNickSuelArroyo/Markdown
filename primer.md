@@ -48,5 +48,14 @@ const elemento = $(this)[0].activeElement.parentElement.parentElement.parentElem
 
 <!--GITHUB MARKDOWN-->
 * [x] Task 1
-* [] Task 2
-* [] Task 3
+* [ ] Task 2
+* [ ] Task 3
+* [x] Task 4
+
+@nicosuel
+
+
+<!--Emojis en github-->
+:smile: :+1:
+
+[Emojis gituhb](https://gist.github.com/rxaviers/7360908 "emojis github")
